@@ -20,3 +20,5 @@ MANIFEST
 *.ipr
 *.iml
 *.iws
+
+api_keys.py

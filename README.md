@@ -12,7 +12,7 @@ Download from Hanako-san.
 
 Liner Regression Model.
 
-[pollen prediction](http://gallery.azureml.net/Details/c5ffa1f9ae6c4f068d8032b5ff7e25b2)
+[pollen prediction](https://gallery.azureml.net/Details/853ade5131f048aea6379bca5faf2e05)
 
 * input
  * time(1-24)

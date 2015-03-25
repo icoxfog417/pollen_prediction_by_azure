@@ -45,7 +45,7 @@ def get_weather_forecasts():
             f = Forecast(
                 date,
                 fd["main"]["temp"],
-                fd["rain"]["3h"],
+                0 if not "rain" in fd else fd["rain"]["3h"],
                 fd["wind"]["deg"],
                 fd["wind"]["speed"],
                 fd["weather"])
